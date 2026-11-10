@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF-DACSharedFolder/RFDAC V3测试/GTA测试 FPGA.md",
+                "file": "RF-DACSharedFolder/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GTA测试 FPGA"
+              "title": "README"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "fd105b227c2f6bd6",
   "lastOpenFiles": [
+    "RF-DACSharedFolder/RFDAC V3测试/GTA测试 FPGA.md",
     "RF-DACSharedFolder/README.md",
     "111.md",
     "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
