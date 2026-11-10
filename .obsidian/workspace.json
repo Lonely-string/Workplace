@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1e1723008b22aa",
+        "id": "830fc9bc828c2568",
         "type": "tabs",
         "children": [
           {
-            "id": "fd105b227c2f6bd6",
+            "id": "292f2c49822276df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing"
+              "title": "新标签页"
             }
           }
         ]
@@ -83,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb0abbae1c06627e",
@@ -166,13 +163,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "99548ea699681f38",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,13 +193,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a8f758b2c4cf6258",
+  "active": "292f2c49822276df",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
     "RF-DACSharedFolder",
     "附件/file-20261110132720734.png",
     "附件/file-20261110132701251.png",
     "附件",
-    "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
     "111.md"
   ]
 }
