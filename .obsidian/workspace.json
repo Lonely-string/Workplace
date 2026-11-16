@@ -93,8 +93,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd105b227c2f6bd6",
+  "active": "a8f758b2c4cf6258",
   "lastOpenFiles": [
     "组会 11.11.md",
     "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
