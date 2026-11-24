@@ -6,6 +6,7 @@
       {
         "id": "1e1e1723008b22aa",
         "type": "tabs",
+        "dimension": 70.99767981438515,
         "children": [
           {
             "id": "87e315af65d0c3e0",
@@ -20,12 +21,28 @@
               "icon": "lucide-file",
               "title": "Root-raised-cosine(RRC) Filter"
             }
+          },
+          {
+            "id": "f78a4c8b048193e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polyphase Interpolator and Decimator"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "47e8608b868e36dd",
         "type": "tabs",
+        "dimension": 29.00232018561485,
         "children": [
           {
             "id": "fd105b227c2f6bd6",
@@ -99,8 +116,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd105b227c2f6bd6",
+  "active": "f78a4c8b048193e9",
   "lastOpenFiles": [
-    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
     "RRC Filter.md",
+    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
     "组会 11.11.md",
     "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
