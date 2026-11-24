@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd105b227c2f6bd6",
+            "id": "87e315af65d0c3e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,25 @@
               "icon": "lucide-file",
               "title": "Root-raised-cosine(RRC) Filter"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "47e8608b868e36dd",
+        "type": "tabs",
+        "children": [
           {
-            "id": "87e315af65d0c3e0",
+            "id": "fd105b227c2f6bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组会 11.11.md",
+                "file": "RRC Filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "组会 11.11"
+              "title": "RRC Filter"
             }
           }
         ]
@@ -93,7 +99,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,14 +209,14 @@
   },
   "active": "fd105b227c2f6bd6",
   "lastOpenFiles": [
-    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
     "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
+    "RRC Filter.md",
+    "组会 11.11.md",
+    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System 1.md",
     "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
-    "组会 11.11.md",
     "RF-DACSharedFolder/README.md",
-    "111.md",
     "RF-DACSharedFolder/RFDAC V3测试/GTA测试 FPGA.md",
     "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
     "附件/file-20261110132720734.png",
