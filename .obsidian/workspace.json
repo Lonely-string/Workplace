@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF-DACSharedFolder/README.md",
+                "file": "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/Deserializer Interface设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Deserializer Interface设计"
             }
           }
         ],
@@ -223,18 +223,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8f758b2c4cf6258",
+  "active": "f78a4c8b048193e9",
   "lastOpenFiles": [
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/主从触发器.md",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014143155984.png",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014123117186.png",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014123117184.png",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105179.png",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105181.png",
+    "RF-DACSharedFolder/工具与命令/FPGA芯片测试/AMD-Xlinx平台 Vivado.md",
+    "RF-DACSharedFolder/工具与命令/FPGA芯片测试/核心板信息说明.md",
+    "RF-DACSharedFolder/工具与命令/Obsidian/知识库搭建流程.md",
+    "RF-DACSharedFolder/工具与命令/Obsidian/知识库搭建流程AI优化版.md",
+    "RF-DACSharedFolder/工具与命令/Virtuoso相关操作/Layout绘制.md",
+    "RF-DACSharedFolder/工具与命令/Virtuoso相关操作/PEX相关操作.md",
+    "RF-DACSharedFolder/工具与命令/Github命令行.md",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/Deserializer Interface设计.md",
+    "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
     "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
+    "RF-DACSharedFolder/README.md",
     "RRC Filter.md",
     "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
     "组会 11.11.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System 1.md",
     "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
-    "RF-DACSharedFolder/README.md",
     "RF-DACSharedFolder/RFDAC V3测试/GTA测试 FPGA.md",
-    "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
     "附件/file-20261110132720734.png",
     "附件/file-20261110132701251.png",
     "附件"
