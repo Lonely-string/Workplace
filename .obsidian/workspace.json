@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
+                "file": "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电路模块与具体指标规划"
+              "title": "Signal and System"
             }
           },
           {
@@ -202,12 +202,14 @@
   },
   "active": "87e315af65d0c3e0",
   "lastOpenFiles": [
+    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
+    "RF-DACSharedFolder/DSP与通信原理/Demodulation and EVM.md",
+    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
+    "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
+    "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
     "RF-DACSharedFolder/RFDAC V5/C55LP PDK相关/fujitsu C55LP数字后端流程.md",
     "RF-DACSharedFolder/RFDAC V5/基带接口/RFDAC V5 FPGA基带接口设计与实现记录.md",
     "RF-DACSharedFolder/RFDAC V5/核心参考文献/文献IEEE DOI.md",
-    "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
-    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
-    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/Deserializer Interface设计.md",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105181.png",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/主从触发器.md",
@@ -225,7 +227,6 @@
     "RF-DACSharedFolder/README.md",
     "RRC Filter.md",
     "组会 11.11.md",
-    "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System 1.md",
     "Efficient_Digital_Quadrature_Transmitter_Based_on_IQ_Cell_Sharing.md",
     "RF-DACSharedFolder/RFDAC V3测试/GTA测试 FPGA.md",
