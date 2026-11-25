@@ -6,7 +6,6 @@
       {
         "id": "1e1e1723008b22aa",
         "type": "tabs",
-        "dimension": 64.8491879350348,
         "children": [
           {
             "id": "87e315af65d0c3e0",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
+                "file": "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root-raised-cosine(RRC) Filter"
+              "title": "Polyphase Interpolator and Decimator"
             }
           },
           {
@@ -34,28 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Deserializer Interface设计"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "47e8608b868e36dd",
-        "type": "tabs",
-        "dimension": 35.150812064965194,
-        "children": [
-          {
-            "id": "fd105b227c2f6bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RRC Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RRC Filter"
             }
           }
         ]
@@ -223,14 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f78a4c8b048193e9",
+  "active": "87e315af65d0c3e0",
   "lastOpenFiles": [
+    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/Deserializer Interface设计.md",
+    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105181.png",
+    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/主从触发器.md",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014143155984.png",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014123117186.png",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/Deserializer Interface设计/file-20261014123117184.png",
     "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105179.png",
-    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/assets/主从触发器/file-20261021133105181.png",
     "RF-DACSharedFolder/工具与命令/FPGA芯片测试/AMD-Xlinx平台 Vivado.md",
     "RF-DACSharedFolder/工具与命令/FPGA芯片测试/核心板信息说明.md",
     "RF-DACSharedFolder/工具与命令/Obsidian/知识库搭建流程.md",
@@ -238,12 +218,9 @@
     "RF-DACSharedFolder/工具与命令/Virtuoso相关操作/Layout绘制.md",
     "RF-DACSharedFolder/工具与命令/Virtuoso相关操作/PEX相关操作.md",
     "RF-DACSharedFolder/工具与命令/Github命令行.md",
-    "RF-DACSharedFolder/RFDAC V5/Deserializer Link设计/Deserializer Interface设计.md",
     "RF-DACSharedFolder/RFDAC V5/电路模块与具体指标规划.md",
-    "RF-DACSharedFolder/DSP与通信原理/Polyphase Interpolator and Decimator.md",
     "RF-DACSharedFolder/README.md",
     "RRC Filter.md",
-    "RF-DACSharedFolder/DSP与通信原理/Root-raised-cosine(RRC) Filter.md",
     "组会 11.11.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System.md",
     "RF-DACSharedFolder/DSP与通信原理/Signal and System 1.md",
